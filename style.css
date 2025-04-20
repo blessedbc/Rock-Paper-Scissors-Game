@@ -46,3 +46,7 @@ h1 {
   background-color: var(--white);
   color: var(--very-dark-blue);
 }
+
+.rules-container ul {
+  list-style-type: none;
+}
