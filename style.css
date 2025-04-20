@@ -50,3 +50,7 @@ h1 {
 .rules-container ul {
   list-style-type: none;
 }
+
+.rules-container p {
+  margin: 10px 0;
+}
