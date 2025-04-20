@@ -54,3 +54,9 @@ h1 {
 .rules-container p {
   margin: 10px 0;
 }
+
+@media (min-width: 760px) {
+  .rules-container {
+    width: 60%;
+  }
+}
