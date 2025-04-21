@@ -13,3 +13,4 @@ function hasPlayerWonTheRound(player, computer) {
 }
 
 let playerScore = 0;
+let computerScore = 0;
