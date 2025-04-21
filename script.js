@@ -28,3 +28,6 @@ function getRoundResults(userOption) {
     return `Computer wins! ${computerResult} beats ${userOption}`;
   }
 }
+
+const playerScoreSpanElement = document.getElementById("player-score");
+
