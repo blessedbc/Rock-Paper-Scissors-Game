@@ -69,3 +69,7 @@ rockBtn.addEventListener("click", function () {
 paperBtn.addEventListener("click", function () {
   showResults("Paper");
 });
+
+scissorsBtn.addEventListener("click", function () {
+  showResults("Scissors");
+});
