@@ -57,3 +57,5 @@ function resetGame() {
 };
 
 resetGameBtn.addEventListener("click", resetGame);
+
+const rockBtn = document.getElementById("rock-btn");
